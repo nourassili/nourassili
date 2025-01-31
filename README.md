@@ -4,7 +4,7 @@
 🛠 **Experience**: SWE at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and ex-President of the [Blockchain Acceleration Foundation ](https://www.blockchainacceleration.org/) 
 
 🤹‍ **Skills**: Python // React // Data Science & Analytics  
-🏓 **I’m looking to collaborate on**: Education content or events about emerging tech and markets   
+🏓 **I’m looking to collaborate on**: Making new technologies open to everyone   
 💬 **Ask me about**: Emerging technologies & markets
 
 🍜 **Telegram**: [@nourassili](https://t.me/nourassili)  
