@@ -5,7 +5,7 @@
 
 🤹‍ **Skills**: Python // React // Data Science & Analytics  
 🏓 **I’m looking to collaborate on**: Education content or events about emerging tech and markets   
-💬 **Ask me about**: Blockchain education // Data science  
+💬 **Ask me about**: Emerging technologies & markets
 
 🍜 **Telegram**: [@nourassili](https://t.me/nourassili)  
 🍜 **Twitter**: [@nourdoteth](https://twitter.com/nourdoteth)  
