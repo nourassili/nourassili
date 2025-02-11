@@ -1,6 +1,6 @@
 # About Me
 
-🔭 **Role**: Data Scientist at Rockefeller Capital Management  
+🔭 **Role**: SWE at Rockefeller Capital Management  
 🛠 **Experience**: SWE at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and ex-President of the [Blockchain Acceleration Foundation ](https://www.blockchainacceleration.org/) 
 
 🤹‍ **Skills**: Python // React // Data Science & Analytics  
