@@ -4,6 +4,7 @@
 **Experience**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of the [Blockchain Acceleration Foundation ](https://www.blockchainacceleration.org/) 
 
 **Skills**: Python // React // AI & ML
+
 **Ask me about**: Emerging technologies & markets
 
 **Telegram**: [@nourassili](https://t.me/nourassili)  
