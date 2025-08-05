@@ -12,4 +12,4 @@
 **LinkedIn**: [Nour Assili](https://www.linkedin.com/in/nour-assili-058916149/)  
 **Website**: [nourassili.com](https://nourassili.com)  
 
-**Fun fact**: I was in the Kung Fu National Team of my country, Tunisia
+**Fun fact**: Star Wars was shot in my home country, Tunisia and Tatouin is a real city!
