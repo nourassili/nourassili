@@ -10,7 +10,7 @@
 
 **LinkedIn**: [Nour Assili](https://www.linkedin.com/in/nour-assili-058916149/) 
 
-**Leetcode** : [Nour Assili] (https://leetcode.com/u/nourmal_girl/) 
+**Leetcode** : [Nour Assili](https://leetcode.com/u/nourmal_girl/) 
 
 **Website**: [nourassili.com](https://nourassili.com)  
 
