@@ -7,8 +7,7 @@
 
 **Ask me about**: Emerging technologies & markets
 
-**Telegram**: [@nourassili](https://t.me/nourassili)  
-**Twitter**: [@nourdoteth](https://twitter.com/nourdoteth)  
+
 **LinkedIn**: [Nour Assili](https://www.linkedin.com/in/nour-assili-058916149/)  
 **Website**: [nourassili.com](https://nourassili.com)  
 
