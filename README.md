@@ -1,7 +1,7 @@
 # About Me
 
 **Role**: Software Engineer at Rockefeller Capital Management  
-**Experience**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of an education nonprofit [BAF](https://www.blockchainacceleration.org/) 
+**Experience**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) 
 
 **Skills**: Python // React // AI & ML
 
