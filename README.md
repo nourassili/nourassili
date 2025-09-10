@@ -3,8 +3,6 @@
 **Role**: Software Engineer at Rockefeller Capital Management  
 **Experience**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
-**Skills**: Python // React // AI & ML
-
 **Ask me about**: Emerging technologies & markets
 
 
@@ -12,6 +10,5 @@
 **Leetcode**: [Nour Assili](https://leetcode.com/u/nourmal_girl/)  
 **Website**: [nourassili.com](https://nourassili.com)  
 
-## 📊 GitHub Stats
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nourassili&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourassili&layout=compact)
