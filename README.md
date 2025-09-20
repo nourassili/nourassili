@@ -1,6 +1,6 @@
 # About Me
 
-**Role**: Software Engineer at Rockefeller Capital Management  
+**Role**: Software Engineer at Rockefeller Capital Management, UofR Fall 2025 
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 **Skills**: Python // React // AI & ML
