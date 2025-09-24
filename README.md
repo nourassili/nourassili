@@ -1,6 +1,6 @@
 # About Me
 
-**Role**: Software Engineer at Rockefeller Capital Management, UofR Fall25 Grad
+**Role**: Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), UofR Fall25 Grad
 
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
