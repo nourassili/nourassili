@@ -10,11 +10,6 @@
 - Learning **Cloud-Native Microservices** with Docker, Kubernetes, and Google Cloud  
 - Developing **mobile apps** with React Native & Firebase  
 
-
-**LinkedIn**: [Nour Assili](https://www.linkedin.com/in/nour-assili-058916149/)  
-**Leetcode**: [Nour Assili](https://leetcode.com/u/nourmal_girl/)  
-**Website**: [nourassili.com](https://nourassili.com)  
-
 ## 💻 Tech Stack  
 
 **Languages:**  
