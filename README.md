@@ -1,16 +1,16 @@
-# About Me
+## About Me
 
 **Role**: Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), UofR Fall25 Grad
 
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
-**What I'm Up To**
+## What I'm Up To
 - Exploring **Machine Learning** with TensorFlow & scikit-learn  
 - Building **Spring Boot applications** with PostgreSQL & Spring Cloud  
 - Learning **Cloud-Native Microservices** with Docker, Kubernetes, and Google Cloud  
 - Developing **mobile apps** with React Native & Firebase  
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
