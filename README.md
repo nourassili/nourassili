@@ -6,7 +6,7 @@
 
 ## What I'm Up To
 - Exploring **Machine Learning** with TensorFlow & scikit-learn  
-- Building **Spring Boot applications** with PostgreSQL & Spring Cloud  
+- Building **Spring Boot applications** with PostgreSQL
 - Learning **Cloud-Native Microservices** with Docker, Kubernetes, and Google Cloud  
 - Developing **mobile apps** with React Native & Firebase  
 
