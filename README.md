@@ -6,10 +6,10 @@
 
 ## What I'm Up To
 - Experimenting with **Machine Learning** using TensorFlow & scikit-learn  
-- Learning **Cloud-Native Microservices** with Docker, Kubernetes, and Google Cloud
 - Getting better at **JavaScript/React**
 - Developing **mobile apps** with React Native & Firebase
 - Building **Spring Boot applications** with PostgreSQL
+- Learning **Cloud-Native Microservices** with Docker and Kubernetes
 
 ## Tech Stack  
 
