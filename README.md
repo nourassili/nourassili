@@ -5,8 +5,9 @@
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 ## What I'm Up To
-- Provide women with wellness coaching tailored to different phases of their lives [Phase](https://phaseapp.co/) 
-- Helping business owners find the best AI tools with [AgentList](https://agentlist.pro/)
+- Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives 
+- Building [AgentList](https://agentlist.pro/) to match business owners with the best AI tools
+- Curating ML & AI educational materials on [SurviveML](https://github.com/nourassili/surviveML)
 - Contributing to [Scalar](https://github.com/scalar) to help developers with better API tools
 
 ## Tech Stack  
