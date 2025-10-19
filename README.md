@@ -5,9 +5,9 @@
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 ## What I'm Up To
-- Building Phase 
-- Building AgentList
-- Contributing to Scalar
+- Building [Phase](https://phaseapp.co/) 
+- Building [AgentList](https://agentlist.pro/)
+- Contributing to [Scalar](https://github.com/scalar)
 
 ## Tech Stack  
 
