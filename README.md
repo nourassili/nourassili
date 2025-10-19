@@ -5,11 +5,9 @@
 **Previously**: Software Engineer at fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 ## What I'm Up To
-- Experimenting with **Machine Learning** using TensorFlow & scikit-learn  
-- Getting better at **JavaScript/React**
-- Developing **mobile apps** with React Native & Firebase
-- Building **Spring Boot applications** with PostgreSQL
-- Learning **Cloud-Native Microservices** with Docker and Kubernetes
+- Building Phase 
+- Building AgentList
+- Contributing to Scalar
 
 ## Tech Stack  
 
