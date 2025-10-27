@@ -7,7 +7,6 @@
 ## What I'm Up To
 - Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives 
 - Building [AgentList](https://agentlist.pro/) to match business owners with the best AI tools
-- Curating ML & AI educational materials on [SurviveML](https://github.com/nourassili/surviveML)
 - Contributing to [Scalar](https://github.com/scalar) to help developers with better API tools
 
 ## Tech Stack  
