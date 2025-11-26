@@ -2,7 +2,7 @@
 
 **Role**: Forward Deployed Engineer at [Default](https://www.default.com/)
 
-**Previously**: Software Engineer at [Rockefeller Capital](https://www.rockco.com/) and fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
+**Previously**: Software Engineer at [Rockefeller Capital](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 ## What I'm Up To
 - Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives 
