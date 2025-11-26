@@ -5,9 +5,8 @@
 **Previously**: Software Engineer at [Rockefeller Capital](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [BAF](https://www.blockchainacceleration.org/) (tech education nonprofit)
 
 ## What I'm Up To
-- Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives 
-- Growing [AgentList](https://agentlist.pro/) to match business owners with the best AI tools
-- Contributing to [Scalar](https://github.com/scalar) to help developers with better API tools
+- Automating inbound at [Default](https://www.default.com/) 
+- Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives (on nights and weekends)
 
 ## Tech Stack  
 
