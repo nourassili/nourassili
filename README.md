@@ -6,7 +6,7 @@
 
 ## What I'm Up To
 - Automating inbound at [Default](https://www.default.com/) 
-- Building [Phase](https://phaseapp.co/) to provide women with wellness coaching tailored to different phases of their lives (on nights and weekends)
+- Building [Phase](https://phaseapp.co/) to provide women with tailored wellness coaching (on nights and weekends)
 
 ## Tech Stack  
 
