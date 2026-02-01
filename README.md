@@ -6,7 +6,7 @@
 
 ## What I'm Up To
 - Automating inbound at [Default](https://www.default.com/) 
-- Building [Phase](https://phaseapp.co/) to support women health throughout different phases of their lives such as pregnancy, post-portum, menopause and more
+- Building [Phase](https://phaseapp.co/) to support women health throughout different phases of their lives such as pregnancy, postpartum, menopause and more
   
 ## Tech Stack  
 
