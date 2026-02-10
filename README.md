@@ -12,7 +12,7 @@
 ## Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
