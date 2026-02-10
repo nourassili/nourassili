@@ -7,7 +7,7 @@
 ## What I'm Up To
 - Automating inbound at [Default](https://www.default.com/) 
 - Supporting women health during different phases of their lives with [Phase](https://phaseapp.co/) 
-- Wiring the desert with digital infra at[Mycelia Foundation](https://www.myfound.org/en)
+- Wiring the desert with digital infra at [Mycelia Foundation](https://www.myfound.org/en)
   
 ## Tech Stack  
 
