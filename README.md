@@ -1,6 +1,6 @@
 ## About Me
 
-**Role**: Forward Deployed Engineer at [Default](https://www.default.com/) & Director of AI at [Mycelia Foundation](https://www.myfound.org/en)
+**Role**: Forward Deployed Engineer at [Default](https://www.default.com/) 
 
 **Previously**: Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
