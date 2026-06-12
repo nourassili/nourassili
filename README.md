@@ -1,6 +1,6 @@
 ## About Me
 
-**Role**: AI Strategy at [Mycelia Foundation](https://www.myfound.org/en)
+**Role**: Growth & Strategy at [Mycelia Foundation](https://www.myfound.org/en)
 
 **Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
