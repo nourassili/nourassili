@@ -5,7 +5,7 @@
 **Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
 ## What I'm Up To
-- Supporting women health during different phases of their lives with [Phase](https://phaseapp.co/) 
+- Building tools & community for women longevity [Phase](https://phaseapp.co/) 
 - Wiring the desert with digital infra at [Mycelia Foundation](https://www.myfound.org/en)
   
 ## Tech Stack  
