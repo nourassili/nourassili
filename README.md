@@ -1,6 +1,6 @@
 ## About Me
 
- I've been on both sides of the table: the strategist calling the shots and the founding engineer in the trenches. Both seats taught me something the other couldn't. Now I sit in the middle:  my job is to mediate the stumbles (and there will be many) so nobody gets caught off guard.
+ I've been on both sides of the table: the strategist calling the shots and the founding engineer in the trenches. Both taught me something the other couldn't. Now I sit in the middle to mediate the trip ups (and there will be many) so nobody gets caught off guard 🪖
 
 
 **Role**: Product Manager @ [Mycelia Foundation](https://www.myfound.org/en) & Founder @ [Phase](https://phaseapp.co/) 
