@@ -1,5 +1,8 @@
 ## About Me
 
+ I've been on both sides of the table: the strategist calling the shots and the founding engineer in the trenches. Both seats taught me something the other couldn't. Now I sit in the middle:  my job is to mediate the stumbles (and there will be many) so nobody gets caught off guard.
+
+
 **Role**: Product Manager @ [Mycelia Foundation](https://www.myfound.org/en) & Founder @ [Phase](https://phaseapp.co/) 
 
 **Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), fintech startups such as [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
