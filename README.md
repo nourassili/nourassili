@@ -3,7 +3,7 @@
  I've been on both sides of the table: the strategist calling the shots and the founding engineer in the trenches. Both taught me something the other couldn't. Now I sit in the middle to mediate the trip ups (and there will be many) so nobody gets caught off guard. Onwards! 🪖
 
 
-**Role**: Product Manager @ [Mycelia Foundation](https://www.myfound.org/en) & Founder @ [Phase](https://phaseapp.co/) 
+**Role**: Product Manager at [Mycelia Foundation](https://www.myfound.org/en) & Founder at [Phase](https://phaseapp.co/) 
 
 **Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding team at [Jutsu](https://jutsu.com), [Amalthea](https://amaltheafs.com/), [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
