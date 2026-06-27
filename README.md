@@ -1,6 +1,6 @@
 ## About Me
 
- I've been on both sides: the founding engineer in the trenches and the founder calling the shots. Both taught me something the other couldn't. Now I sit in the middle to mediate the trip ups (and there will be many) so nobody gets caught off guard. 
+ I've been on both sides: the founding engineer in the trenches and the founder calling the shots. Both taught me something the other couldn't. Now I sit in the middle to mediate the trip ups so nobody gets caught off guard. 
 
 
 **Role**: Product Manager at [Mycelia Foundation](https://www.myfound.org/en) & Founder at [Phase](https://phaseapp.co/) 
