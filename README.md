@@ -5,7 +5,7 @@
 
 **Role**: Product Manager @ [Mycelia Foundation](https://www.myfound.org/en) & Founder @ [Phase](https://phaseapp.co/) 
 
-**Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding engineer in AI startups such as [Jutsu](jutsu.com), [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
+**Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding team at [Jutsu](jutsu.com), [Amalthea](https://amaltheafs.com/) and [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
 ## What I'm Up To
 - Building tools & community for women longevity at [Phase](https://phaseapp.co/) 
