@@ -1,6 +1,7 @@
 ## About Me
 
  I've been on both sides of engineering and strategy. Both taught me something the other couldn't. 
+ 
  Today, I sit in the middle to mediate the trip ups so that nobody gets caught off guard. 
 
 **Currently**: Product & Engineering at [Mycelia Foundation](https://www.myfound.org/en), Founder at [Phase](https://phaseapp.co/) 
