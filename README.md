@@ -1,9 +1,9 @@
 ## About Me
 
- I've been on both sides of engineering and strategy. Both taught me something the other couldn't. Now I sit in the middle to mediate the trip ups so nobody gets caught off guard. 
+ I've been on both sides of engineering and strategy. Both taught me something the other couldn't. Today I sit in the middle to mediate the trip ups so nobody gets caught off guard. 
 
 
-**Role**: Product Manager at [Mycelia Foundation](https://www.myfound.org/en) & Founder at [Phase](https://phaseapp.co/) 
+**Role**: Product & Engineering at [Mycelia Foundation](https://www.myfound.org/en) & Founder at [Phase](https://phaseapp.co/) 
 
 **Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding team at [Jutsu](https://jutsu.com), [Amalthea](https://amaltheafs.com/), [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
