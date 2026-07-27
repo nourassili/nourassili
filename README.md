@@ -1,6 +1,6 @@
 ## About Me
 
-Sitting on both sides of engineering and strategy. Both teach me something the other can't. 
+Sitting on both sides of engineering and product strategy. Both teach me something the other can't. 
  
 **Currently**: Product & Engineering at [Mycelia Foundation](https://www.myfound.org/en), Founder at [Phase](https://phaseapp.co/) 
 
