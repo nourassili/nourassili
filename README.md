@@ -6,7 +6,7 @@ Both teach me something the other can't.
  
 **Currently**: Product & Engineering at [Mycelia Foundation](https://www.myfound.org/en), Founder at [Phase](https://phaseapp.co/) 
 
-**Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding team at [Jutsu](https://jutsu.com), [Amalthea](https://amaltheafs.com/), [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
+**Previously**:  Deployed Engineer at [Default](https://www.default.com/), Software Engineer at [Rockefeller Capital Management](https://www.rockco.com/), founding engineer at [Jutsu](https://jutsu.com), [Amalthea](https://amaltheafs.com/), [Mos](https://mos.com/), and President of [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)
 
 ## What I'm Up To
 - Wiring the desert with digital infra at [Mycelia Foundation](https://www.myfound.org/en)
