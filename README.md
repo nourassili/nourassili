@@ -10,7 +10,7 @@ Both teach me something the other can't.
 
 ## What I'm Up To
 - Wiring the desert with digital infra at [Mycelia Foundation](https://www.myfound.org/en)
-- Building tools & community to support longevity for women at [Phase](https://phaseapp.co/)
+- Building tools & community to support women's longevity at [Phase](https://phaseapp.co/)
   
 ## Tech Stack  
 
